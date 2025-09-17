@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mobile AI Quiz Video Generator",
+  "description": "Create engaging quiz videos on any topic, now optimized for mobile! The app automatically adapts to provide a native-like experience for both iOS and Android, generating portrait-mode videos perfect for social media.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
